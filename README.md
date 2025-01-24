@@ -1,2 +1,2 @@
 # WordTracker
-## Please download folder: 'WordTrackerJar' to use the app
+## Please download folder: `WordTrackerJar` to use the app
